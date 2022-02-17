@@ -1,6 +1,8 @@
 <h1 align="center">Frontend Mentor - Huddle Landing Page with Alternate Feature Blocks</h1>
 
-<img src=".....?raw=true" ></img>
+<img src="https://github.com/NickODxyz/FM-huddle-landing-page-with-alternating-feature-blocks-master/blob/main/Preview.JPG?raw=true" ></img>
+<img src="https://github.com/NickODxyz/FM-huddle-landing-page-with-alternating-feature-blocks-master/blob/main/Preview-ext-1.JPG?raw=true" ></img>
+<img src="https://github.com/NickODxyz/FM-huddle-landing-page-with-alternating-feature-blocks-master/blob/main/Preview-ext-2.JPG?raw=true" ></img>
 
 <br>
 
