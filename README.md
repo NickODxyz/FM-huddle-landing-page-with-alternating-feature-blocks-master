@@ -32,7 +32,7 @@ Continued with learning more about a mobile first responsive workflow really. Se
 ## Site links
 Hosted [Live Site](https://nickodxyz.github.io/FM-huddle-landing-page-with-alternating-feature-blocks-master/)
 <br>
-Frontend Mentor [Solution Page]()
+Frontend Mentor [Solution Page](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternate-features-bem-mobile-first-QuNungtN-)
 
 <br>
 
