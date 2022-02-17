@@ -41,6 +41,11 @@ p {
 a {
   text-decoration: none;
 }
+a:hover,
+a:active {
+  color: var(--pink);
+  transition: 0.5s ease;
+}
 
 .wrapper {
   max-width: 144rem;
@@ -107,6 +112,7 @@ a {
 }
 .hero__link-pink:hover,
 .hero__link-pink:active {
+  color: #fff;
   background-color: var(--bnt-hover);
   transition: 0.5s ease;
 }
@@ -164,6 +170,7 @@ a {
 }
 .cta__link:hover,
 .cta__link:active {
+  color: #fff;
   background-color: var(--bnt-hover);
   transition: 0.5s ease;
 }
@@ -265,6 +272,12 @@ a {
   border: 1.5px solid #fff;
   border-radius: 50%;
   padding: 0.5rem;
+}
+.footer__social-img:hover,
+.footer__social-img:active {
+  color: var(--pink);
+  border-color: var(--pink);
+  transition: 0.5s ease;
 }
 .footer__copyright-container {
   margin-top: 2.4rem;
